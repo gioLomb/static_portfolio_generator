@@ -1,0 +1,5 @@
+link,title,description
+https://github.com/yourusername/template-engine,Template Engine in C,"A lightweight {{KEY}} template engine with fragment pre-parsing, zero runtime scanning, and mmap-based loading. Suitable for embedding in small servers or static generators."
+https://github.com/yourusername/portgen,Portfolio Generator,"This very site. A minimal static generator written in pure C: reads CSV data, renders HTML templates, and produces a single output file ready to deploy on GitHub Pages."
+https://github.com/yourusername/httpserver,Tiny HTTP Server,"A dependency-free HTTP/1.1 server in ~600 lines of C. Serves static files, supports keep-alive, and handles concurrent connections via a thread-pool."
+
