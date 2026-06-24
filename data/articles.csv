@@ -3,7 +3,6 @@ https://skarnet.org/software/execline/,"execline: a non-interactive scripting la
 https://craftinginterpreters.com/,Crafting Interpreters,"Robert Nystrom's free book walks through building two complete interpreters from scratch — a tree-walk interpreter in Java and a bytecode VM in C. One of the best practical programming books written."
 https://nullprogram.com/blog/2023/02/11/,Beating the Beckett test in 60 lines of C,"Chris Wellons demonstrates how to write a branchless UTF-8 decoder in C. Dense and instructive: a masterclass in bit manipulation and portable C."
 https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html,Notes on Data Structures and Programming Techniques,"James Aspnes's Yale course notes — a thorough, freely available reference covering C, algorithms, and data structures with clear prose and worked examples."
-"link","title","description"
 "https://www.jernesto.com/articles/thinking_hard","Thinking Hard with AI",""
 "https://www.youtube.com/watch?v=bbNypypN2Gw","Inutilità CAPTCHA e Bypass",""
 "https://antonz.org/defer-in-c/","(Un)portable defer in C",""
